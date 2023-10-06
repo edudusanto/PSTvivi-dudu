@@ -1,0 +1,15 @@
+h1 {
+    text-align: left;
+    color: rgb(221, 224, 215);
+    font-size: 28px;
+    font-style: italic;
+    background-color: rgb(52, 19, 173);
+}
+
+
+.texto {
+    background-color: rgb(142, 162, 204);
+    width: 25%;
+    border-radius: 30px;
+    margin: auto;
+}
